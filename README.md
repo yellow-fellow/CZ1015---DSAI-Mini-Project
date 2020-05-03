@@ -1,4 +1,4 @@
-### CZ1015---DSAI-Mini-Project
+### CZ1015 - DSAI-Mini-Project
 
  Dataset: Modelling Earthquake Damage
 
